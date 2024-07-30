@@ -71,3 +71,5 @@ Siga os passos abaixo para rodar o projeto localmente:
 <video src="assets/videos/simulator_screen_recording_iphone13_ios16_4.mp4" controls>
   Seu navegador não suporta a tag de vídeo.
 </video>
+
+![DEMONSTRAÇÃO](assets/videos/simulator_screen_recording_iphone13_ios16_4.mp4)
