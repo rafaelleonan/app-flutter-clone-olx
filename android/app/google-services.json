@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031684008887",
+    "project_id": "appolx-34e42",
+    "storage_bucket": "appolx-34e42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031684008887:android:7ec6eeb5d7cf2d44b5d632",
+        "android_client_info": {
+          "package_name": "com.example.app_olx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjV-PMa1Ep9CX_YY9KOkZLNEVKpZu7M9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
