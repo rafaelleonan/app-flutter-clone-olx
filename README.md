@@ -19,10 +19,10 @@ Um aplicativo desenvolvido durante o curso de Desenvolvimento Flutter Mobile, co
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.22.2-blue)
 ![Dart](https://img.shields.io/badge/Dart-3.4.3-blue)
-![Firebase Core](https://img.shields.io/badge/Firebase_Core-^2.2.0-orange)
+![Firebase Core](https://img.shields.io/badge/Firebase_Core-^3.2.0-orange)
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-^5.1.2-orange)
-![Firebase Storage](https://img.shields.io/badge/Firebase_Storage-^5.1.0-orange)
-![Firebase Firestore](https://img.shields.io/badge/Firebase_Firestore-^12.1.1-orange)
+![Firebase Storage](https://img.shields.io/badge/Firebase_Storage-^12.1.1-orange)
+![Firebase Firestore](https://img.shields.io/badge/Firebase_Firestore-^5.1.0-orange)
 
 ## Funcionalidades
 
